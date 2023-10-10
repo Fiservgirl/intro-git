@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Carla.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: cereal.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: gym, code, learn, watch tv.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Rihanna.
 
